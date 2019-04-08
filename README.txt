@@ -23,7 +23,7 @@ VC Extension Hover Image is a plugin for Visual Composer (WPBakery Page Builder)
 
 = Can this plugin be used outside of VC? =
 
-No, this plugin requires a version of VC installed
+No, this plugin requires a version of Visual Composer or WPBakery Page Builder installed
 
 
 == Screenshots ==

@@ -5,7 +5,7 @@
  */
 
 // Element Class 
-class vcHoverImage extends WPBakeryShortCode {
+class VCExtHoverImage extends WPBakeryShortCode {
 
     function __construct() {
         add_action('init', array($this, 'vc_ext_hover_image'));
@@ -135,4 +135,4 @@ class vcHoverImage extends WPBakeryShortCode {
 
 }
 
-new vcHoverImage();
+new VCExtHoverImage();
