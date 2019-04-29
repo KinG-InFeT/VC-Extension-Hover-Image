@@ -3,7 +3,7 @@ Contributors: Vincenzo Luongo
 Donate link: https://www.paypal.me/vluongo92
 Tags: visual composer ext hover image, hover image, vc hover image, WPBakery hover image
 Requires at least: 4.9
-Tested up to: 5.1.1
+Tested up to: 5.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

@@ -15,5 +15,5 @@
 add_action('vc_before_init', 'vc_before_init_actions');
 
 function vc_before_init_actions() {
-    require_once( plugin_dir_path(__FILE__) . 'templates/ext_hover_image.php');
+    require_once( plugin_dir_path(__FILE__) . 'templates/vc_ext_hover_image.php');
 }
