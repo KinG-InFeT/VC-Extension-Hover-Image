@@ -1,18 +1,18 @@
 === VC Extension Hover Image ===
 Contributors: Vincenzo Luongo
 Donate link: https://www.paypal.me/vluongo92
-Tags: visual composer ext hover image, hover image, vc hover image, WPBakery hover image
+Tags: hover image, vc hover image, WPBakery hover image
 Requires at least: 4.9
-Tested up to: 5.2
+Tested up to: 5.4
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-VC Extension Hover Image is a plugin for Visual Composer (WPBakery Page Builder) to make a single image with hover
+VC Extension Hover Image is a plugin for WPBakery Page Builder to make a single image with hover
 
 == Description ==
 
-VC Extension Hover Image is a plugin for Visual Composer (WPBakery Page Builder) to make a single image with hover
+VC Extension Hover Image is a plugin for WPBakery Page Builder to make a single image with hover
 
 == Installation ==
 
@@ -23,7 +23,7 @@ VC Extension Hover Image is a plugin for Visual Composer (WPBakery Page Builder)
 
 = Can this plugin be used outside of VC? =
 
-No, this plugin requires a version of Visual Composer or WPBakery Page Builder installed
+No, this plugin requires a version of WPBakery Page Builder installed
 
 
 == Screenshots ==
@@ -33,6 +33,9 @@ No, this plugin requires a version of Visual Composer or WPBakery Page Builder i
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Fix typo for brand violations
 
 = 1.0 =
 * Public release
