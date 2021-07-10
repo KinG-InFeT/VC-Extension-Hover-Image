@@ -4,7 +4,7 @@
  * Plugin Name: VC Extension Hover Image
  * Plugin URI:  https://wordpress-plugins.luongovincenzo.it/#vc-ext-hover-image
  * Description: VC Extension Hover Image is a plugin for WPBakery Page Builder to make a single image with hover
- * Version:     1.2.0
+ * Version:     1.2.2
  * Author:      Vincenzo Luongo
  * Author URI:  https://www.luongovincenzo.it/
  * License:     GPL2+
