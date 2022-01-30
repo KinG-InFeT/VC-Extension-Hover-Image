@@ -2,7 +2,7 @@
 Contributors: Vincenzo Luongo
 Tags: hover image, vc hover image, WPBakery hover image
 Requires at least: 5.0
-Tested up to: 5.8
+Tested up to: 5.9
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,6 +32,10 @@ No, this plugin requires a version of WPBakery Page Builder installed
 
 
 == Changelog ==
+
+= 1.2.3 =
+* Support for Wordpress 5.9 added
+* Minor bug fix
 
 = 1.2.2 =
 * Support for Wordpress 5.8 added
