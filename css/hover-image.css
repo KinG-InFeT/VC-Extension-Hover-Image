@@ -1,0 +1,28 @@
+.vcehi {
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.vcehi img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* The hover image covers the first one and shows only on hover or keyboard focus */
+.vcehi .vcehi-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+}
+
+.vcehi:hover .vcehi-hover,
+.vcehi:focus .vcehi-hover {
+    opacity: 1;
+}
